@@ -1,0 +1,35 @@
+/* dashboard.css */
+.dashboard-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #c1dcf7;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.dashboard-container h2 {
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.dashboard-container p {
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.dashboard-container button {
+    padding: 10px 20px;
+    background-color: #26c823;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.dashboard-container button:hover {
+    background-color: #c82323;
+}
